@@ -12,7 +12,7 @@ module Memorable
      all.clear
    end
 
-  
+
 
 
 
