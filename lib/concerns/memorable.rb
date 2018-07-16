@@ -5,6 +5,7 @@ module Memorable
 
 def add_artist
   @@artist << self
+end
 
 
   def count
