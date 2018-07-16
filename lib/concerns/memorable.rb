@@ -3,10 +3,6 @@ module Memorable
 
 @@artists = []
 
-def add_artist
-  @@artist << self
-end
-
 
   def count
     all.count
