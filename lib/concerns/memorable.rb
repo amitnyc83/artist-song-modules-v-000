@@ -3,10 +3,8 @@ module Memorable
 
 @@artists = []
 
-def initialize
-  @@artists << self
-  @songs = []
-end
+def add_artist
+  @@artist << self
 
 
   def count
