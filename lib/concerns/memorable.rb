@@ -2,7 +2,7 @@ module Memorable
 extend self
 
   def count
-    .all.count
+    all.count
   end
 
    def reset_all
@@ -10,7 +10,7 @@ extend self
    end
 
    def reset_all
-     .all.clear
+     all.clear
    end
 
    def count
