@@ -1,19 +1,19 @@
 module Memorable
 extend self
 
-  def self.count
-    self.all.count
+  def .count
+    .all.count
   end
 
-   def self.reset_all
+   def .reset_all
      @@songs.clear
    end
 
-   def self.reset_all
-     self.all.clear
+   def .reset_all
+     .all.clear
    end
 
-   def self.count
+   def .count
      @@artists.count
    end
 
