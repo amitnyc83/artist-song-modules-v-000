@@ -1,5 +1,5 @@
 module Memorable
-extend self
+
 
   def count
     all.count
