@@ -1,6 +1,8 @@
 module Memorable
 
 
+@@artists = []
+
   def count
     all.count
   end
