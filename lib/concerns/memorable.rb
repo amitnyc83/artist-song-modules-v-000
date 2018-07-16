@@ -2,8 +2,7 @@ module Memorable
 
 
 @@artists = []
-@@artists << self
-@@songs = []
+
 
   def count
     all.count
